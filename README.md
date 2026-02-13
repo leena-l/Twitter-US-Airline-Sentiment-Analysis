@@ -14,7 +14,7 @@ Seaborn/Matplotlib: Data visualization.
 
 WordCloud: Text data visualization.
 
-Re (Regex): Text preprocessing and noise removal._
+Re (Regex): Text preprocessing and noise removal.
 
 # Dataset Insights
 
@@ -46,11 +46,11 @@ To prepare the text for analysis, the following steps were implemented:
 
 # Visualizations
 
-1. Word Clouds by Sentiment
+1 - Word Clouds by Sentiment
    
 We generated Word Clouds for each sentiment category to visualize the most frequent terms. For instance, "thank" and "great" dominate positive tweets, while "flight," "cancelled," and "delayed" are prevalent in negative ones.
 
-2. Sentiment Distribution per Airline
+2 - Sentiment Distribution per Airline
    
 The project includes a grouped bar chart comparing sentiment counts across different carriers.
 
